@@ -1,2 +1,2 @@
 # Portifolio_1
-Noroff Portifolio 1 Coarse Assignement. 
+Noroff Portfolio 1 Coarse Assignement. 
