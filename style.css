@@ -24,3 +24,13 @@ header, footer {
     text-align: center;
 }
 
+main {
+    padding: 50px;
+}
+
+.projects div {
+    background-color: var(--grey-color);
+    color: var(--light-color);
+    padding: 20px;
+    margin-bottom: 20px;
+}
