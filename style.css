@@ -17,7 +17,7 @@ body {
     background-color: var(--light-color);
 }
 
-header {
+header, footer {
     background-color: var(--dark-color);
     color: var(--light-color);
     padding: 20px;
